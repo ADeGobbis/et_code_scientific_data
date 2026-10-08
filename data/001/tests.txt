@@ -1,0 +1,5 @@
+20180929-102937-test-neus-v2-sl.json    : NEUS test, elderly, JSON format
+20220426-200156-test-neus-v2-hr.log	: NEUS test, elderly, log format (must convert first)
+test-4month-es-0.json			: new test, child
+test-example-sl-0.json			: dummy test, just as example
+test-xyzzy-sl-32.json			: NEUS test, adults, detection of Parkinson's

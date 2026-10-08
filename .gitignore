@@ -1,0 +1,21 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Packaging / build artifacts
+*.egg-info/
+build/
+dist/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Editor/OS cruft
+.vscode/
+.DS_Store
